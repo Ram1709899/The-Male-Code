@@ -48,6 +48,6 @@ Avoid background music, cinematic instructions, or voiceover notes. The entire s
    - Briefly suggest liking/subscribing if the message hit home  
    - Reaffirm the core code: strength > approval, clarity > confusion
 
-Strictly no dialogue sections, no bullet points, and no segmented explanations. Maintain a single-flow narrative style that keeps the viewer immersed while effortlessly learning."
+Strictly no dialogue sections, no bullet points, and no segmented explanations. Maintain a single-flow narrative style that keeps the viewer immersed while effortlessly Listening."
 
 ```
